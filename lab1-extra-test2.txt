@@ -1,0 +1,5 @@
+int main(){
+	int a;//变量a
+	int b;//变量b
+	a = a ** b;//进行乘乘操作
+}
