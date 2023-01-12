@@ -1,0 +1,5 @@
+{
+	if ( ID == NUM ) 
+	then ID = NUM ;
+	ID = NUM ;
+}
