@@ -1,0 +1,11 @@
+文法：
+Sprime -> S
+S -> L = R
+S -> R
+L -> * R
+L -> ID
+R -> L
+
+输入：
+其实无所谓，因为parsing table出错就不会处理了
+可以输入ID = ID
